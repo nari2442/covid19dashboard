@@ -1,0 +1,60 @@
+.header-container {
+  background: #1e1e30;
+  display: flex;
+  width: 1440px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+}
+.logo-heading {
+  font-family: Bree Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  margin-top: 28px;
+
+  line-height: 24px;
+  margin-left: 150px;
+  /* identical to box height, or 120% */
+
+  text-align: center;
+
+  /* Light / blue-gray / 50 */
+
+  color: #f8fafc;
+}
+.india-text {
+  color: blue;
+}
+
+.home-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 28px;
+  margin-right: 32px;
+  color: #f8fafc;
+  margin-left: 800px;
+}
+.about-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 28px;
+  margin-right: 150px;
+  /* identical to box height, or 150% */
+
+  /* Light / blue-gray / 400 */
+
+  color: #94a3b8;
+}
+.link {
+  text-decoration: none;
+}
+.home-about-container {
+  display: flex;
+}

@@ -1,0 +1,124 @@
+.home-bg-container {
+  background: #161625;
+
+  position: absolute;
+  background-size: cover;
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.search-container {
+  background: #2f2f43;
+  border-radius: 8px;
+  height: 72px;
+  margin-top: 64px;
+  margin-left: 308px;
+  margin-right: 308px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.search-icon {
+  color: #94a3b8;
+  margin-top: 30px;
+  margin-left: 32px;
+}
+.search {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #94a3b8;
+  background-color: transparent;
+  border-color: transparent;
+  margin-top: 24px;
+}
+.statistics-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 112px;
+  margin-left: 150px;
+}
+.confirmed-container {
+  color: #ff073a;
+  margin-right: 170px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.confirmed-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #ff073a;
+}
+.confirmed-icon {
+}
+.active-container {
+  color: #007bff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 170px;
+}
+.active-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.recovered-container {
+  color: #28a745;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 170px;
+}
+.recovered-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.deceased-container {
+  color: #6c757d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 170px;
+}
+.deceased-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+.round {
+  height: 38px;
+  width: 38px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #ff073a;
+  border-radius: 38px;
+}
+.statistics-img {
+  height: 38px;
+  width: 38px;
+}

@@ -1,0 +1,90 @@
+.states-data-container {
+  margin-top: 106px;
+
+  left: 150px;
+  top: 576px;
+  margin-left: 150px;
+  margin-right: 144px;
+  background-color: #1e1e30;
+
+  border: 1px solid #475569;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16);
+  border-radius: 12px;
+}
+.titles-container {
+  display: flex;
+}
+.states-ut-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 32px;
+  margin-top: 24px;
+  color: #f8fafc;
+}
+.confirmed-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 24px;
+  margin-left: 149px;
+  color: #f8fafc;
+}
+.active-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 24px;
+  margin-left: 124px;
+  color: #f8fafc;
+}
+.recovered-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 124px;
+  margin-top: 24px;
+  line-height: 24px;
+
+  color: #f8fafc;
+}
+.deceased-title {
+  font-family: Roboto;
+  font-style: normal;
+  margin-left: 124px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 24px;
+  color: #f8fafc;
+}
+.population-title {
+  font-family: Roboto;
+  font-style: normal;
+  margin-left: 124px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 24px;
+  line-height: 24px;
+
+  color: #f8fafc;
+}
+.state-name {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: #f1f5f9;
+}
+.states-names-container {
+  margin-left: 32px;
+}
